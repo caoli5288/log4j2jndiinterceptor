@@ -1,0 +1,3 @@
+name: Log4j2JndiInterceptor
+main: log4j2jndiinterceptor.Log4j2JndiInterceptor
+version: 1.0.0
